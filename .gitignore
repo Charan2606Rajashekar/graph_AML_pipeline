@@ -1,0 +1,17 @@
+# Raw and processed data — never commit (5 GB, licence-bound)
+data/raw/
+data/interim/
+data/processed/
+
+# Model outputs and figures — regeneratable
+outputs/
+
+# Python junk
+__pycache__/
+.ipynb_checkpoints/
+*.pkl
+.venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
