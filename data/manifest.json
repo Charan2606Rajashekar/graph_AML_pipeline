@@ -1,0 +1,10 @@
+{
+  "HI-Small_Trans.csv": {
+    "sha256": "b19d39f515523373f991b689c07e11e7b0b95c17a2c27a87d91584ae16c5b040",
+    "rows": 5078345,
+    "illicit": 5177,
+    "illicit_pct": 0.102,
+    "licence": "CDLA-Sharing-1.0",
+    "source": "https://www.kaggle.com/datasets/ealtman2019/ibm-transactions-for-anti-money-laundering-aml"
+  }
+}
