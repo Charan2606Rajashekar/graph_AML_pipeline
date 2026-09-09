@@ -1,0 +1,5 @@
+test,m1_only,m2_only,p,n
+mcnemar_all_rows,2178.0,2954.0,2.2531809091548064e-27,
+mcnemar_illicit_only,170.0,95.0,4.768609724545183e-06,
+overlap_both_correct,,,,754383.0
+overlap_both_wrong,,,,1016.0
