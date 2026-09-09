@@ -1,0 +1,6 @@
+measure,value,note
+graph_share_of_total_pct,52.81332439925985,registered H2
+confounded_share_of_graph_pct,60.91798506939285,post-hoc
+confounded_share_of_total_pct,32.17281307219112,post-hoc
+n_graph_features,16.0,
+n_confounded_features,8.0,4 stems x 2 endpoints
