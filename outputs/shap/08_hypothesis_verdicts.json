@@ -1,0 +1,12 @@
+{
+  "h4_rho": 0.7818181818181817,
+  "h4_p": 0.007547007781067878,
+  "graph_mass": 0.5281332439925984,
+  "h4a_pass": false,
+  "h4b_pass": true,
+  "h4_supported": false,
+  "h2_supported": true,
+  "n_shared": 10,
+  "population": "test-main",
+  "n_sample": 10000
+}

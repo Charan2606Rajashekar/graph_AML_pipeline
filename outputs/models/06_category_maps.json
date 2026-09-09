@@ -1,0 +1,45 @@
+{
+  "Receiving Currency": {
+    "0": "Australian Dollar",
+    "1": "Bitcoin",
+    "2": "Brazil Real",
+    "3": "Canadian Dollar",
+    "4": "Euro",
+    "5": "Mexican Peso",
+    "6": "Ruble",
+    "7": "Rupee",
+    "8": "Saudi Riyal",
+    "9": "Shekel",
+    "10": "Swiss Franc",
+    "11": "UK Pound",
+    "12": "US Dollar",
+    "13": "Yen",
+    "14": "Yuan"
+  },
+  "Payment Currency": {
+    "0": "Australian Dollar",
+    "1": "Bitcoin",
+    "2": "Brazil Real",
+    "3": "Canadian Dollar",
+    "4": "Euro",
+    "5": "Mexican Peso",
+    "6": "Ruble",
+    "7": "Rupee",
+    "8": "Saudi Riyal",
+    "9": "Shekel",
+    "10": "Swiss Franc",
+    "11": "UK Pound",
+    "12": "US Dollar",
+    "13": "Yen",
+    "14": "Yuan"
+  },
+  "Payment Format": {
+    "0": "ACH",
+    "1": "Bitcoin",
+    "2": "Cash",
+    "3": "Cheque",
+    "4": "Credit Card",
+    "5": "Reinvestment",
+    "6": "Wire"
+  }
+}

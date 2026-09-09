@@ -1,0 +1,16 @@
+Payment Currency,Australian Dollar,Bitcoin,Brazil Real,Canadian Dollar,Euro,Mexican Peso,Ruble,Rupee,Saudi Riyal,Shekel,Swiss Franc,UK Pound,US Dollar,Yen,Yuan
+Australian Dollar,127,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bitcoin,0,56,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brazil Real,0,0,57,0,0,0,0,0,0,0,0,0,0,0,0
+Canadian Dollar,0,0,0,128,0,0,0,0,0,0,0,0,0,0,0
+Euro,0,0,0,0,1372,0,0,0,0,0,0,0,0,0,0
+Mexican Peso,0,0,0,0,0,92,0,0,0,0,0,0,0,0,0
+Ruble,0,0,0,0,0,0,133,0,0,0,0,0,0,0,0
+Rupee,0,0,0,0,0,0,0,167,0,0,0,0,0,0,0
+Saudi Riyal,0,0,0,0,0,0,0,0,374,0,0,0,0,0,0
+Shekel,0,0,0,0,0,0,0,0,0,95,0,0,0,0,0
+Swiss Franc,0,0,0,0,0,0,0,0,0,0,193,0,0,0,0
+UK Pound,0,0,0,0,0,0,0,0,0,0,0,132,0,0,0
+US Dollar,0,0,0,0,0,0,0,0,0,0,0,0,1912,0,0
+Yen,0,0,0,0,0,0,0,0,0,0,0,0,0,155,0
+Yuan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,184

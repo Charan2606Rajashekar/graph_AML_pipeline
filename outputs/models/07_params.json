@@ -1,0 +1,14 @@
+{
+  "objective": "binary:logistic",
+  "eval_metric": "aucpr",
+  "learning_rate": 0.05,
+  "max_depth": 6.0,
+  "min_child_weight": 10.0,
+  "subsample": 0.8,
+  "colsample_bytree": 0.8,
+  "scale_pos_weight": 1243.7328431372548,
+  "max_delta_step": 1.0,
+  "tree_method": "hist",
+  "device": "cpu",
+  "seed": 42.0
+}

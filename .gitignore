@@ -3,9 +3,14 @@ data/raw/
 data/interim/
 data/processed/
 
-# Model outputs and figures — regeneratable
-outputs/
 
+
+# Version the small evidence artefacts; keep large binaries out
+outputs/**
+!outputs/**/
+!outputs/**/*.csv
+!outputs/**/*.json
+!outputs/**/*.png
 # Python junk
 __pycache__/
 .ipynb_checkpoints/

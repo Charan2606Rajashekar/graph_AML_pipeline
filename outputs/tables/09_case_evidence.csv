@@ -1,0 +1,5 @@
+case,df_index,is_laundering,m1_prob,m2_prob,m1_top5,m2_top5,m2_graph_share_%
+1_both_correct,3732458,1,0.9955782294273376,0.953870952129364,Payment Format | Amount Paid | Amount Received | day_of_week | To Bank,Payment Format | Amount Paid | Amount Received | from_g_pagerank | from_g_net_flow,27.55
+2_m2_fixes_fn,2655559,1,0.22888290882110596,0.9908332228660583,Payment Format | Amount Received | Amount Paid | day_of_week | From Bank,Payment Format | to_g_in_weighted | Amount Paid | Amount Received | from_g_pagerank,37.96
+3_m2_fixes_fp,5022147,0,0.988940417766571,0.02248726785182953,Payment Format | Amount Paid | Payment Currency | Amount Received | day_of_week,Payment Format | from_g_pagerank | Amount Paid | to_g_net_flow | to_g_in_weighted,38.62
+4_m2_breaks_illicit,2313434,1,0.9611378908157349,0.08354084193706512,Payment Format | Amount Received | day_of_week | hour | Payment Currency,Payment Format | to_g_in_degree | from_g_out_weighted | from_g_two_hop_out | to_g_out_degree,45.74

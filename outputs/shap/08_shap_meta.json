@@ -1,0 +1,11 @@
+{
+  "m1_base": -6.121311574536939,
+  "m2_base": -6.330572602670499,
+  "n_sample": 10000,
+  "n_background": 1000,
+  "m1_trees": 482,
+  "m2_trees": 430,
+  "seed": 42,
+  "population": "test-main",
+  "perturbation": "interventional"
+}

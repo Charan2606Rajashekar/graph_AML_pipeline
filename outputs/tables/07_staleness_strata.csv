@@ -1,0 +1,4 @@
+stratum,n,illicit,m1_pr_auc,m2_pr_auc,diff,note
+both_active,758982,878,0.086591,0.064119,-0.022472,
+one_imputed,1491,28,0.101299,0.073938,-0.027361,
+both_imputed,58,0,,,,degenerate - counts only

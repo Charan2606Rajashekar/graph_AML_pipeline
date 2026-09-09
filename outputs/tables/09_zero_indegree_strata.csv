@@ -1,0 +1,5 @@
+stratum,model,n,illicit,illicit_rate_%,flagged,true_pos,recall_%,precision_%
+zero in-degree receiver,M1,13424,219,1.6314,955,76,34.7,7.96
+zero in-degree receiver,M2,13424,219,1.6314,4,1,0.46,25.0
+all other rows,M1,747107,687,0.092,2691,215,31.3,7.99
+all other rows,M2,747107,687,0.092,2716,215,31.3,7.92

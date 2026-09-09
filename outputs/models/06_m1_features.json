@@ -1,0 +1,12 @@
+[
+  "Amount Received",
+  "Amount Paid",
+  "From Bank",
+  "To Bank",
+  "Receiving Currency",
+  "Payment Currency",
+  "Payment Format",
+  "hour",
+  "day_of_week",
+  "is_weekend"
+]

@@ -1,0 +1,48 @@
+{
+  "notebook": "09_shap_local_paired",
+  "date": "2026-09-08T15:46:22",
+  "registration_status": "exploratory throughout; cannot alter H1-H4",
+  "selection_form": "four-category (OSF template line 225); 3-rung ladder retired 8 Sep 2026",
+  "selection_rule": "max |p2 - p1| within category, ties by lowest index, fixed before SHAP computed",
+  "population": "test-main (is_main), 760531 rows, 906 illicit",
+  "reconstruction_check": "sliced boosters reproduce stored probabilities, max abs diff 0.000e+00",
+  "thresholds": {
+    "m1": 0.9579981881141687,
+    "m2": 0.9533845419883794
+  },
+  "n_trees": {
+    "m1": 482,
+    "m2": 430
+  },
+  "base_values": {
+    "m1": -6.121311574536939,
+    "m2": -6.330572602670499
+  },
+  "candidate_counts": {
+    "1_both_correct": 121,
+    "2_m2_fixes_fn": 95,
+    "3_m2_fixes_fp": 2859,
+    "4_m2_breaks_illicit": 170,
+    "4b_m2_breaks_any": 2178
+  },
+  "selected": {
+    "1_both_correct": 3732458,
+    "2_m2_fixes_fn": 2655559,
+    "3_m2_fixes_fp": 5022147,
+    "4_m2_breaks_illicit": 2313434
+  },
+  "post_hoc_stratification": {
+    "note": "NOT registered; arose from the case-4 explanation during this session",
+    "definition": "to_g_in_degree == 0 in test-main",
+    "n": 13424,
+    "illicit": 219,
+    "illicit_rate_pct": 1.6314,
+    "m1_recall_pct": 34.7,
+    "m2_recall_pct": 0.46,
+    "outside_stratum_recall_pct": {
+      "m1": 31.3,
+      "m2": 31.3
+    },
+    "confound_declared": "stratum is 77.8% ACH vs 12.9% elsewhere; M1 serves as control"
+  }
+}

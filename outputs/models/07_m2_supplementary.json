@@ -1,0 +1,8 @@
+{
+  "registered_best_iteration": 429,
+  "supp_best_iteration": 429,
+  "supp_early_stopping_fired": true,
+  "max_abs_prob_diff": 0.0,
+  "registered_pr_auc": 0.06370836931100315,
+  "supp_pr_auc": 0.06370836931100315
+}

@@ -1,0 +1,8 @@
+{
+  "threshold": 0.9533845419883794,
+  "val_f1": 0.1520912547528517,
+  "chosen_on": "validation",
+  "n_trees_used": 430,
+  "num_boost_round": 500,
+  "early_stopping_rounds": 50
+}

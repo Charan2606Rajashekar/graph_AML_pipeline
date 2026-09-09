@@ -1,0 +1,6 @@
+check,value
+illicit same-currency,100.00%
+illicit identical amounts,100.00%
+legitimate same-currency,98.58%
+illicit cross-currency rows,0
+legitimate cross-currency rows,72170

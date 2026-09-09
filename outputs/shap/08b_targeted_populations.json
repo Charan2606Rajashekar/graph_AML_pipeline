@@ -1,0 +1,26 @@
+{
+  "registered_secondary_h2_flagged": {
+    "n": 2720,
+    "n_illicit": 216,
+    "graph_mass": 0.31633411340886136,
+    "n_graph_in_top10": 6,
+    "floor_met": true,
+    "status": "registered secondary, full population"
+  },
+  "posthoc_flagged_rho": {
+    "rho": 0.7575757575757575,
+    "status": "POST-HOC, not registered"
+  },
+  "posthoc_illicit": {
+    "n": 906,
+    "graph_mass": 0.3829002861003146,
+    "rho": 0.8545454545454544,
+    "status": "POST-HOC, not registered"
+  },
+  "registered_primary_unchanged": {
+    "graph_mass": 0.5281332439925984,
+    "rho": 0.7818181818181817,
+    "h4_supported": false,
+    "h2_supported": true
+  }
+}
