@@ -1,6 +1,6 @@
 {
   "notebook": "09_shap_local_paired",
-  "date": "2026-09-08T15:46:22",
+  "date": "2026-09-10T11:50:34",
   "registration_status": "exploratory throughout; cannot alter H1-H4",
   "selection_form": "four-category (OSF template line 225); 3-rung ladder retired 8 Sep 2026",
   "selection_rule": "max |p2 - p1| within category, ties by lowest index, fixed before SHAP computed",
