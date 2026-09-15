@@ -1,8 +1,8 @@
-# Decision record — training round budget
+# Decision record - training round budget
 
 **Date of decision: 7 September 2026**
 **Author: Charan Rajashekar**
-**Status at time of writing: M1 fitted at the registered budget. M2 HAS NOT BEEN FITTED.
+**Status at time of writing: M1 fitted at the registered budget. M2 has not been fitted.
 No M1-vs-M2 contrast has been computed or observed.**
 
 Pre-registration: DOI 10.17605/OSF.IO/37QJK, registered 25 August 2026 (pre-analysis).
@@ -18,8 +18,8 @@ n_estimators: 500
 early_stopping_rounds: 50      # on validation PR-AUC
 ```
 
-It does not specify which rule governs **when the round cap binds before the patience
-does**. That omission is the defect being resolved here. The registered numbers
+It does not specify which rule governs when the round cap binds before the patience
+does. That omission is the defect being resolved here. The registered numbers
 themselves are not in question and are not being changed.
 
 ## 2. The observation that exposed it
@@ -98,7 +98,7 @@ H1, H2 or H4:
 
 If the two agree, the supplementary is reported as a robustness confirmation.
 
-### 3.5 SHAP at the higher budget — DEFERRED, not omitted
+### 3.5 SHAP at the higher budget - Deferred, not omitted
 
 TreeSHAP cost scales with the number of fitted trees, so a 2000-round model costs
 roughly 4x the SHAP time of a 500-round model. The SHAP timing pilot has not yet been
